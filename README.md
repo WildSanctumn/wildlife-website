@@ -10,7 +10,6 @@ It shows information about endangered animals in the Philippines. The goal is to
 
 - To teach people about endangered animals in the Philippines  
 - To raise awareness about wildlife conservation  
-- To practice basic web development using HTML and CSS  
 - To create a simple and informative website  
 
 ---
@@ -20,7 +19,6 @@ It shows information about endangered animals in the Philippines. The goal is to
 - HTML – for the structure of the website  
 - CSS – for design and styling  
 - Bootstrap – for layout and forms  
-- Unsplash – for background images  
 - GitHub Pages – for hosting the website  
 
 ---
